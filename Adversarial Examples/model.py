@@ -8,8 +8,7 @@ class FC(tf.keras.models.Model):
         super(FC, self).__init__(**kwargs)
 
         self.model = tf.keras.Sequential()
-        self.model.add(tf.keras.layers.Flatten(input_shape=(28, 28)))
-        self.model.add(tf.keras.layers.Dense(28 * 28, activation=tf.nn.relu))
+        self.model.add(tf.keras.layers.Flatten())
         self.model.add(tf.keras.layers.Dense(128, activation=tf.nn.relu))
 
         self.model.add(tf.keras.layers.Dense(10, tf.nn.softmax))
