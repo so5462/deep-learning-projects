@@ -1,7 +1,6 @@
 # Adversarial Examples (Intriguing Properties of Neural Networks)
 
 * This folder illustrates the experiment performed by Authors of IPNN to attack a neural network to misclassify a given image by adding small perturbations. 
-
 * Currently it is in progress of showing the FC adversarial attack example using L-BFGS minimizer. 
 
 ***
