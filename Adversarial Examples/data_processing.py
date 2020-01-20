@@ -21,15 +21,6 @@ class CustomDataWrapper():
         plt.show()
 
 
-        s = 0
-
-    def get_train_data(self):
-        pass
-
-    def get_test_data(self):
-        pass
-
-
 
 """
 Start testing the classes here
