@@ -7,7 +7,9 @@
 ```
 @misc{szegedy2013intriguing,
     title={Intriguing properties of neural networks},
-    author={Christian Szegedy and Wojciech Zaremba and Ilya Sutskever and Joan Bruna and Dumitru Erhan and Ian Goodfellow and Rob Fergus},
+    author={
+        Christian Szegedy and Wojciech Zaremba and Ilya Sutskever and Joan Bruna and Dumitru Erhan and Ian Goodfellow and Rob Fergus
+            },
     year={2013},
     eprint={1312.6199},
     archivePrefix={arXiv},
