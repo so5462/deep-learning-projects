@@ -5,6 +5,7 @@
 * Currently it is in progress of showing the FC adversarial attack example using L-BFGS minimizer. 
 
 ***
+```
 @misc{szegedy2013intriguing,
     title={Intriguing properties of neural networks},
     author={Christian Szegedy and Wojciech Zaremba and Ilya Sutskever and Joan Bruna and Dumitru Erhan and Ian Goodfellow and Rob Fergus},
@@ -13,4 +14,5 @@
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
+```
 ***
